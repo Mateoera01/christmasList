@@ -1,0 +1,80 @@
+#list {
+    list-style-type: none;
+    padding: 0;
+    }
+.title1{
+    color: rgb(1, 80, 1);
+    text-align: center;
+  }
+.h1{
+    padding-right: 3px;
+    padding-left: 3px;
+    box-shadow: 1px 10px 2px blue;
+    border-radius: 15px;
+    justify-content: center;
+    display: flex;
+    margin:auto;
+    border: solid rgb(2, 82, 2) 3px;
+    background-color: red;
+    width: 21rem;
+  }
+.bdy{
+    background-color: royalblue;
+  }
+.delete-button {
+    cursor: pointer;
+    color: red;
+    margin-left: 10px;
+  }
+.listDiv{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+.buttnList{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+.listItSelf{
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
+.nextwish{
+  border: solid;
+    font-weight: 700;
+    font-size: 1.5rem;
+    height: 3rem;
+    width: 8rem;
+    cursor: pointer;
+    box-shadow: 1px 5px 1px blue;
+    color: rgb(3, 61, 3);
+    background-color: red;
+    border-radius: 10px;
+}
+.orderedList{
+  font-size: 20px;
+  border: solid red 2px;
+  text-align: center;
+  width: 30rem;
+  border-radius: 10px;
+  background-color: rgb(1, 80, 1);
+}
+.christmasCount{
+  box-shadow: 1px 5px 1px blue;
+  border: solid;
+  justify-content: center;
+    display: flex;
+    margin: auto;
+  width: 35rem;
+  text-align: center;
+  border-radius: 10px;
+  background-color: green;
+  color: red;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.questions{
+  text-align: center;
+}
